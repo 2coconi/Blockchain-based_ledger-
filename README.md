@@ -17,6 +17,9 @@ hashlib
 
 ## Demo
 Please referred to Screen Shot streamlit run pychain,Screen Shot PyChain-1 and Screen Shot PyChain-2.
+![alt text](https://github.com/2coconi/CH-18/blob/main/Screen%20Shot%20PyChain-1.png?raw=true)
+![alt text](https://github.com/2coconi/CH-18/blob/main/Screen%20Shot%20PyChain-2.png?raw=true)
+![alt text](https://github.com/2coconi/CH-18/blob/main/Screen%20Shot%20streamlit%20run%20pychain.png?raw=true)
 
 Contributors
 Brought to you by 2coconi@gmail.com
